@@ -1,7 +1,7 @@
-# Aggregator Program
+# Gator Program
 
 ## Overview
-This is a command-line program for managing and aggregating feeds. Users can register, log in, follow feeds, and browse aggregated posts. The program interacts with a PostgreSQL database, and tools such as `goose` (for database migrations) and `sqlc` (for generating type-safe database access code) are used.
+Gator is a command-line program for managing and aggregating feeds. Users can register, log in, follow feeds, and browse aggregated posts. The program interacts with a PostgreSQL database, and tools such as `goose` (for database migrations) and `sqlc` (for generating type-safe database access code) are used.
 
 ---
 
